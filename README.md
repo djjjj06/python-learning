@@ -1,2 +1,2 @@
-# python-learning
-努力学习python
+#Python学习
+一个自学Python的学生，欢迎大家参考我的笔记或纠正我的错误。
