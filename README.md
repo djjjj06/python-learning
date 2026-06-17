@@ -1,2 +1,1 @@
-#Python学习
-一个自学Python的学生，欢迎大家参考我的笔记或纠正我的错误。
+#A self-taught Python student, welcome to any experts to correct my mistakes.
